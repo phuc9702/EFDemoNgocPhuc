@@ -1,0 +1,13 @@
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+D:\HK222\LTC#\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK222\LTC#\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+D:\HK222\LTC#\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.SuggestedBindingRedirects.cache
+D:\HK222\LTC#\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+D:\HK222\LTC#\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+D:\HK222\LTC#\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+D:\HK222\LTC#\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
